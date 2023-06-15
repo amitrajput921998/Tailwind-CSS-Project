@@ -1,6 +1,6 @@
 # Tailwind CSS Project
 
-With the help of html and Tailwind CSS.
+With the help of HTML5 and Tailwind CSS.
 
 Vs Code Clone
 This project is just for education Purpose.
